@@ -1,0 +1,291 @@
+,comunidad_autonoma,año,n_victimas_mortales
+0,Andalucía,2003,1.0
+1,Andalucía,2004,1.0
+2,Andalucía,2005,1.0
+3,Andalucía,2006,1.0
+4,Andalucía,2007,1.0
+5,Andalucía,2008,1.0
+6,Andalucía,2009,1.0
+7,Andalucía,2010,1.0
+8,Andalucía,2011,1.0
+9,Andalucía,2012,1.0
+10,Andalucía,2013,1.0
+11,Andalucía,2014,1.0
+12,Andalucía,2015,1.0
+13,Andalucía,2016,1.0
+14,Andalucía,2017,1.0
+15,Andalucía,2018,1.0
+16,Andalucía,2019,1.0
+17,Andalucía,2020,1.0
+18,Andalucía,2021,1.0
+19,Andalucía,2022,1.0
+20,Andalucía,2023,1.0
+21,Andalucía,2024,1.0
+22,Aragón,2003,1.0
+23,Aragón,2004,1.0
+24,Aragón,2005,1.0
+25,Aragón,2006,1.0
+26,Aragón,2007,1.0
+27,Aragón,2008,1.0
+28,Aragón,2010,1.0
+29,Aragón,2011,1.0
+30,Aragón,2012,1.0
+31,Aragón,2013,1.0
+32,Aragón,2015,1.0
+33,Aragón,2016,1.0
+34,Aragón,2018,1.0
+35,Aragón,2019,1.0
+36,Aragón,2021,1.0
+37,Aragón,2022,1.0
+38,Aragón,2023,1.0
+39,Canarias,2003,1.0
+40,Canarias,2004,1.0
+41,Canarias,2005,1.0
+42,Canarias,2006,1.0
+43,Canarias,2007,1.0
+44,Canarias,2008,1.0
+45,Canarias,2009,1.0
+46,Canarias,2010,1.0
+47,Canarias,2011,1.0
+48,Canarias,2012,1.0
+49,Canarias,2013,1.0
+50,Canarias,2014,1.0
+51,Canarias,2015,1.0
+52,Canarias,2016,1.0
+53,Canarias,2017,1.0
+54,Canarias,2018,1.0
+55,Canarias,2019,1.0
+56,Canarias,2020,1.0
+57,Canarias,2022,1.0
+58,Canarias,2023,1.0
+59,Cantabria,2003,1.0
+60,Cantabria,2004,1.0
+61,Cantabria,2007,1.0
+62,Cantabria,2013,1.0
+63,Cantabria,2015,1.0
+64,Cantabria,2019,1.0
+65,Cantabria,2020,1.0
+66,Cantabria,2021,1.0
+67,Castilla y León,2003,1.0
+68,Castilla y León,2004,1.0
+69,Castilla y León,2005,1.0
+70,Castilla y León,2006,1.0
+71,Castilla y León,2007,1.0
+72,Castilla y León,2008,1.0
+73,Castilla y León,2009,1.0
+74,Castilla y León,2010,1.0
+75,Castilla y León,2011,1.0
+76,Castilla y León,2012,1.0
+77,Castilla y León,2013,1.0
+78,Castilla y León,2014,1.0
+79,Castilla y León,2015,1.0
+80,Castilla y León,2016,1.0
+81,Castilla y León,2018,1.0
+82,Castilla y León,2019,1.0
+83,Castilla y León,2020,1.0
+84,Castilla y León,2021,1.0
+85,Castilla y León,2022,1.0
+86,Castilla y León,2023,1.0
+87,Castilla-La Mancha,2003,1.0
+88,Castilla-La Mancha,2004,1.0
+89,Castilla-La Mancha,2005,1.0
+90,Castilla-La Mancha,2006,1.0
+91,Castilla-La Mancha,2007,1.0
+92,Castilla-La Mancha,2008,1.0
+93,Castilla-La Mancha,2009,1.0
+94,Castilla-La Mancha,2010,1.0
+95,Castilla-La Mancha,2011,1.0
+96,Castilla-La Mancha,2012,1.0
+97,Castilla-La Mancha,2013,1.0
+98,Castilla-La Mancha,2015,1.0
+99,Castilla-La Mancha,2016,1.0
+100,Castilla-La Mancha,2017,1.0
+101,Castilla-La Mancha,2018,1.0
+102,Castilla-La Mancha,2020,1.0
+103,Castilla-La Mancha,2021,1.0
+104,Castilla-La Mancha,2022,1.0
+105,Castilla-La Mancha,2023,1.0
+106,Cataluña,2003,1.0
+107,Cataluña,2004,1.0
+108,Cataluña,2005,1.0
+109,Cataluña,2006,1.0
+110,Cataluña,2007,1.0
+111,Cataluña,2008,1.0
+112,Cataluña,2009,1.0
+113,Cataluña,2010,1.0
+114,Cataluña,2011,1.0
+115,Cataluña,2012,1.0
+116,Cataluña,2013,1.0
+117,Cataluña,2014,1.0
+118,Cataluña,2015,1.0
+119,Cataluña,2016,1.0
+120,Cataluña,2017,1.0
+121,Cataluña,2018,1.0
+122,Cataluña,2019,1.0
+123,Cataluña,2020,1.0
+124,Cataluña,2021,1.0
+125,Cataluña,2022,1.0
+126,Cataluña,2023,1.0
+127,Ceuta,2003,1.0
+128,Ceuta,2009,1.0
+129,Ceuta,2022,1.0
+130,Comunidad Foral de Navarra,2003,1.0
+131,Comunidad Foral de Navarra,2004,1.0
+132,Comunidad Foral de Navarra,2005,1.0
+133,Comunidad Foral de Navarra,2007,1.0
+134,Comunidad Foral de Navarra,2008,1.0
+135,Comunidad Foral de Navarra,2011,1.0
+136,Comunidad Foral de Navarra,2017,1.0
+137,Comunidad Foral de Navarra,2018,1.0
+138,Comunidad Foral de Navarra,2021,1.0
+139,Comunidad Foral de Navarra,2022,1.0
+140,Comunidad Foral de Navarra,2023,1.0
+141,Comunidad de Madrid,2003,1.0
+142,Comunidad de Madrid,2004,1.0
+143,Comunidad de Madrid,2005,1.0
+144,Comunidad de Madrid,2006,1.0
+145,Comunidad de Madrid,2007,1.0
+146,Comunidad de Madrid,2008,1.0
+147,Comunidad de Madrid,2009,1.0
+148,Comunidad de Madrid,2010,1.0
+149,Comunidad de Madrid,2011,1.0
+150,Comunidad de Madrid,2012,1.0
+151,Comunidad de Madrid,2013,1.0
+152,Comunidad de Madrid,2014,1.0
+153,Comunidad de Madrid,2015,1.0
+154,Comunidad de Madrid,2016,1.0
+155,Comunidad de Madrid,2017,1.0
+156,Comunidad de Madrid,2018,1.0
+157,Comunidad de Madrid,2019,1.0
+158,Comunidad de Madrid,2020,1.0
+159,Comunidad de Madrid,2021,1.0
+160,Comunidad de Madrid,2022,1.0
+161,Comunidad de Madrid,2023,1.0
+162,Comunitat Valenciana,2003,1.0
+163,Comunitat Valenciana,2004,1.0
+164,Comunitat Valenciana,2005,1.0
+165,Comunitat Valenciana,2006,1.0
+166,Comunitat Valenciana,2007,1.0
+167,Comunitat Valenciana,2008,1.0
+168,Comunitat Valenciana,2009,1.0
+169,Comunitat Valenciana,2010,1.0
+170,Comunitat Valenciana,2011,1.0
+171,Comunitat Valenciana,2012,1.0
+172,Comunitat Valenciana,2013,1.0
+173,Comunitat Valenciana,2014,1.0
+174,Comunitat Valenciana,2015,1.0
+175,Comunitat Valenciana,2016,1.0
+176,Comunitat Valenciana,2017,1.0
+177,Comunitat Valenciana,2018,1.0
+178,Comunitat Valenciana,2019,1.0
+179,Comunitat Valenciana,2020,1.0
+180,Comunitat Valenciana,2021,1.0
+181,Comunitat Valenciana,2022,1.0
+182,Comunitat Valenciana,2023,1.0
+183,Extremadura,2003,1.0
+184,Extremadura,2004,1.0
+185,Extremadura,2006,1.0
+186,Extremadura,2009,1.0
+187,Extremadura,2010,1.0
+188,Extremadura,2012,1.0
+189,Extremadura,2013,1.0
+190,Extremadura,2015,1.0
+191,Extremadura,2016,1.0
+192,Extremadura,2017,1.0
+193,Extremadura,2022,1.0
+194,Galicia,2003,1.0
+195,Galicia,2004,1.0
+196,Galicia,2005,1.0
+197,Galicia,2007,1.0
+198,Galicia,2008,1.0
+199,Galicia,2009,1.0
+200,Galicia,2010,1.0
+201,Galicia,2011,1.0
+202,Galicia,2012,1.0
+203,Galicia,2013,1.0
+204,Galicia,2014,1.0
+205,Galicia,2015,1.0
+206,Galicia,2016,1.0
+207,Galicia,2017,1.0
+208,Galicia,2018,1.0
+209,Galicia,2019,1.0
+210,Galicia,2020,1.0
+211,Galicia,2021,1.0
+212,Galicia,2023,1.0
+213,Illes Balears,2003,1.0
+214,Illes Balears,2004,1.0
+215,Illes Balears,2005,1.0
+216,Illes Balears,2006,1.0
+217,Illes Balears,2007,1.0
+218,Illes Balears,2008,1.0
+219,Illes Balears,2009,1.0
+220,Illes Balears,2010,1.0
+221,Illes Balears,2011,1.0
+222,Illes Balears,2012,1.0
+223,Illes Balears,2013,1.0
+224,Illes Balears,2014,1.0
+225,Illes Balears,2015,1.0
+226,Illes Balears,2016,1.0
+227,Illes Balears,2018,1.0
+228,Illes Balears,2019,1.0
+229,Illes Balears,2020,1.0
+230,Illes Balears,2021,1.0
+231,La Rioja,2003,1.0
+232,La Rioja,2004,1.0
+233,La Rioja,2008,1.0
+234,La Rioja,2009,1.0
+235,La Rioja,2020,1.0
+236,La Rioja,2023,1.0
+237,Melilla,2005,1.0
+238,Melilla,2007,1.0
+239,Melilla,2014,1.0
+240,Melilla,2016,1.0
+241,País Vasco,2004,1.0
+242,País Vasco,2005,1.0
+243,País Vasco,2006,1.0
+244,País Vasco,2007,1.0
+245,País Vasco,2008,1.0
+246,País Vasco,2009,1.0
+247,País Vasco,2010,1.0
+248,País Vasco,2011,1.0
+249,País Vasco,2012,1.0
+250,País Vasco,2013,1.0
+251,País Vasco,2014,1.0
+252,País Vasco,2015,1.0
+253,País Vasco,2016,1.0
+254,País Vasco,2017,1.0
+255,País Vasco,2018,1.0
+256,País Vasco,2020,1.0
+257,País Vasco,2021,1.0
+258,País Vasco,2022,1.0
+259,País Vasco,2023,1.0
+260,Principado de Asturias,2003,1.0
+261,Principado de Asturias,2005,1.0
+262,Principado de Asturias,2006,1.0
+263,Principado de Asturias,2007,1.0
+264,Principado de Asturias,2008,1.0
+265,Principado de Asturias,2010,1.0
+266,Principado de Asturias,2011,1.0
+267,Principado de Asturias,2012,1.0
+268,Principado de Asturias,2013,1.0
+269,Principado de Asturias,2015,1.0
+270,Principado de Asturias,2016,1.0
+271,Principado de Asturias,2018,1.0
+272,Principado de Asturias,2020,1.0
+273,Principado de Asturias,2021,1.0
+274,Región de Murcia,2003,1.0
+275,Región de Murcia,2004,1.0
+276,Región de Murcia,2005,1.0
+277,Región de Murcia,2006,1.0
+278,Región de Murcia,2007,1.0
+279,Región de Murcia,2008,1.0
+280,Región de Murcia,2009,1.0
+281,Región de Murcia,2010,1.0
+282,Región de Murcia,2011,1.0
+283,Región de Murcia,2015,1.0
+284,Región de Murcia,2017,1.0
+285,Región de Murcia,2018,1.0
+286,Región de Murcia,2019,1.0
+287,Región de Murcia,2020,1.0
+288,Región de Murcia,2022,1.0
+289,Región de Murcia,2023,1.0
