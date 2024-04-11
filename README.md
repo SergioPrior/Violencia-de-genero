@@ -22,10 +22,10 @@ Sacaremos mediante pivot table, group by y otros métodos la relación de lo que
 | Gráficas | Enlace |
 | ------ | ------ |
 | Desempleo |[Graficas Estudio/desempleo dic2023.png](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20Estudio/desempleo%20dic2023.png) |
-| Muertes por CCAA, 2023| [Muertes por CCAA, 2023](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20VVG/muertes%20por%20comunidad%202023.png) |
-| Nivel de estudios | [Nivel de estudios](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20VVG/informe%20PISA%202022.png) |
-| Muertes por Origen Nacionalidad | [Muertes por Origen Nacionalidad](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20VVG/muertes%20por%20origen%20de%20nacionalidad%202003-2023.png) |
-| Muertes por millón de hab, Histórico | [Muertes por millón de hab, Histórico](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20VVG/muertes%20por%20cada%20millon%20de%20habitantes%2020%20a%C3%B1os.png) |
+| Muertes por CCAA, 2023| [Muertes por CCAA, 2023](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20Estudio/muertes%20por%20comunidad%202023.png) |
+| Nivel de estudios | [Nivel de estudios](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20Estudio/informe%20PISA%202022.png) |
+| Muertes por Origen Nacionalidad | [Muertes por Origen Nacionalidad](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20Estudio/muertes%20por%20origen%20de%20nacionalidad%202003-2023.png) |
+| Muertes por millón de hab, Histórico | [Muertes por millón de hab, Histórico](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20Estudio/muertes%20por%20cada%20millon%20de%20habitantes%2020%20a%C3%B1os.png) |
 
 ## 3 - Estudio
 A raíz de sacar las gráficas, hemos obtenido resultados en donde podemos observar que el nivel de estudios de la comunidad autónoma y la tasa de desempleo tienen mucha relación con la cantidad de casos por violencia de género en nuestro país.
