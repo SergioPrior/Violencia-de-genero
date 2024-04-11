@@ -33,7 +33,7 @@ A raíz de sacar las gráficas, hemos obtenido resultados en donde podemos obser
 ## 4 - Dashboard PowerBI
 Una vez realizado el estudio lo he trasladado todo a un dashboard en PowerBI para darle más claridad, calidad e interactividad, si quieres obtenerlo para visualizarlo o trabajarlo te dejo aquí el enlace:
 
-| Dashboard | [Dashboard PowerBI](PK) |
+| Dashboard | [Dashboard PowerBI](Dashboard_VG.pbix) |
 
 - Como podemos observar en él tenemos unas gráficas con la información de Nº víctimas por CCAA, si convivían juntos o no, más el total de hijos huérfanos de las familias, el número de víctimas mensuales y víctimas por año desde el estudio 2003 hasta la actualidad. También, mapas donde podemos observar la correlación entre el Nº víctimas y la tasa de desempleo, un gráfico circular donde vemos la tasa de suicidio del agresor y finalmente una tabla donde podemos ver en sí el número de víctimas totales y la tasa de desempleo de forma porcentual.
 
