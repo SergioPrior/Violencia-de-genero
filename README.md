@@ -21,7 +21,7 @@ Sacaremos mediante pivot table, group by y otros métodos la relación de lo que
 
 | Gráficas | Enlace |
 | ------ | ------ |
-| Desempleo | [Desempleo](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20VVG/desempleo%20dic2023.png) |
+| Desempleo | [Desempleo](Graficas Estudio/desempleo dic2023.png) |
 | Muertes por CCAA, 2023| [Muertes por CCAA, 2023](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20VVG/muertes%20por%20comunidad%202023.png) |
 | Nivel de estudios | [Nivel de estudios](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20VVG/informe%20PISA%202022.png) |
 | Muertes por Origen Nacionalidad | [Muertes por Origen Nacionalidad](https://github.com/SergioPrior/Violencia-de-genero/blob/main/Graficas%20VVG/muertes%20por%20origen%20de%20nacionalidad%202003-2023.png) |
